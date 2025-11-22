@@ -67,7 +67,3 @@ Total: **7 LEDs + 1 NeoPixel**
 - Lenguaje: **MicroPython**  
 - IDE recomendado: **Thonny**  
 
----
-
-## ✔ Nota Final
-Este listado coincide exactamente con el hardware utilizado en el código final del proyecto.
